@@ -124,4 +124,4 @@ Pemilihan algoritma pengurutan yang tepat tergantung pada karakteristik data yan
 ---
 
 ## Kesimpulan
-Algoritma pengurutan sangat berguna untuk meningkatkan efisiensi pemrosesan data, dan memilih algoritma yang tepat dapat menghemat waktu dan memori, terutama ketika bekerja dengan dataset besar. Pilih algoritma yang sesuai dengan jenis data dan konteks penggunaan untuk mendapatkan hasil terbaik.
+Algoritma pengurutan sangat berguna untuk meningkatkan efisiensi pemrosesan data dan memilih algoritma yang tepat dapat menghemat waktu dan memori, terutama ketika bekerja dengan dataset besar. Pilih algoritma yang sesuai dengan jenis data dan konteks penggunaan untuk mendapatkan hasil terbaik.
